@@ -1,4 +1,4 @@
-# STEM projekat "Lego Mindstorms"
+# Prezentacioni web sajt "Lego Mindstorms"
 Prezentacioni web sajt za prezentaciju projekta "Lego Mindstorms". Web sajt je samo jedan dio cjelokupne STEM radionice u kojoj smo moj drug i ja učestvovali 2021. u našoj srednjoj školi.
 
 v1.0.0 verziju ovog projekta smo napravili moj drug i ja krajem 2021. godine u 4. razredu srednje škole, za potrebe STEM radionice pod nazivom Lego Mindstorms. Iskoristili smo već postojeći template koji smo našli na internetu, koji smo mi izmijenili po našoj potrebi. Kada pogledamo finalni izgled sajta prve verzije, sve izgleda super, međutim sam kod je jako loš, jer u tom trenutku nismo u potpunosti razumijeli kako je template napravljen i izmjenjivali smo stvari onako kao smo mi u tom trenutku mislili da je ispravno.
